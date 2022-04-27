@@ -1,40 +1,47 @@
 body {
   color: white;
-  background-color:	#181f2a;
+  background-color: #181f2a;
   font-size: 14px;
   text-align: center;
-  background-color: hsl(218, 28%, 13%)
-  font-family: 'Open Sans', sans-serif;
+  background-color: hsl(218, 28%, 13%) font-family: 'Open Sans', sans-serif;
 }
+
 .files {
   height: 300px;
 }
+
 .button {
   background-color: #65e2d9;
-
   background-color: hsl(176, 68%, 64%);
 }
+
 .arrow {
   height: 17px;
 }
+
 img {
   height: 150px;
 }
+
 .testimonial1 {
   background-color: #2d3a53;
   background-color: hsl(219, 30%, 18%);
 }
+
 .profile {
   border-radius: 50%;
   height: 20px;
 }
+
 .email {
   background-color: #2d3a53;
   background-color: hsl(217, 28%, 15%);
 }
-.logo{
+
+.logo {
   height: 40px;
 }
+
 .button {
   color: white;
   transition-duration: 0.4s;
@@ -46,27 +53,31 @@ img {
   right: 30px;
   font-family: 'Raleway', sans-serif;
 }
+
 .button:hover {
   background-color: #2d3a53;
   color: white;
 }
-  .intro1 {
-    position: relative;
-    width: 500px;
-    left: 300px;
-    padding-bottom: 20px;
+
+.intro1 {
+  position: relative;
+  width: 500px;
+  left: 300px;
+  padding-bottom: 20px;
 }
+
 table {
   padding: 40px;
   margin: 50px;
   border-spacing: 40px;
   position: relative;
-
 }
+
 .link {
   color: #65e2d9;
 }
-.comm{
+
+.comm {
   position: relative;
   padding: 20px 0 20px 20px;
   top: 100px;
@@ -74,14 +85,17 @@ table {
   right: 0;
   margin-right: 0;
 }
+
 .comment {
   position: absolute;
   left: 100px;
   bottom: 270px;
 }
+
 .testimonial {
   position: relative;
 }
+
 .words {
   position: relative;
   left: 0;
@@ -89,6 +103,7 @@ table {
   margin: 50px;
   bottom: 200px;
 }
+
 .testimonial1 {
   position: absolute;
   bottom: 60px;
@@ -96,39 +111,72 @@ table {
   width: 300px;
   padding: 10px;
 }
+
 #testimonial2.testimonial1 {
   position: absolute;
   width: 300px;
   left: 440px;
 }
+
 #testimonial3.testimonial1 {
   position: absolute;
   width: 300px;
   left: 800px;
 }
+
 .testimonial {
   margin-top: 200px;
 }
+
 .comma {
   height: 50px;
   position: relative;
   right: 540px;
   bottom: 210px;
 }
+
 .email {
   position: relative;
   width: 700px;
   left: 200px;
   padding: 40px;
 }
-.text {
 
+.text {
   border-radius: 20px;
   padding: 14px 40px;
   border: none;
   position: relative;
   right: 50px;
 }
+
 h1 {
   font-family: 'Raleway', sans-serif;
+}
+
+.footer-img {
+  height: 30px;
+}
+
+.footer1 {
+  text-align: left;
+  position: relative;
+  bottom: 60px;
+}
+
+.footer-nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.footer-nav {
+  color: white;
+  position: relative;
+  right: 400px;
+  bottom: 100px;
+}
+
+.footer-icon img {
+  height: 30px;
+  margin: 20px;
 }
